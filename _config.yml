@@ -7,5 +7,5 @@ github:
   
 nav:
   show: true
-  home: index
-  about: about
+  home: /
+  about: /about/
