@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Testitest"
 description: "This is my personal demo page. Enjoy!"
+nav:
+  show: true
+  home: index
+  about: about
