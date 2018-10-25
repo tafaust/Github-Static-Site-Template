@@ -6,4 +6,5 @@ permalink: /watches/
 
 # Watches
 
-Here I want to showcase some watches.
+Here I want to showcase some watches. 
+I created a few nice watches.
