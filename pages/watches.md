@@ -8,3 +8,5 @@ permalink: /watches/
 
 Here I want to showcase some watches. 
 I created a few nice watches.
+
+![alt text](https://placekitten.com/200/300)
