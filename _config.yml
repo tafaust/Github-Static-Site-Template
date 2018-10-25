@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-title: "Test Seite"
+title: "Testitest"
+github:
+  is_project_page: false
