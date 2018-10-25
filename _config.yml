@@ -7,6 +7,6 @@ github:
   
 nav:
   show: true
-  home: /testitest/
-  hobby: /testitest/watches/
-  about: /testitest/about/
+  home: /
+  hobby: /watches/
+  about: /about/
